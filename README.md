@@ -9,4 +9,7 @@ The following images shows the contract and deployment:
 
 ![image](https://user-images.githubusercontent.com/80648280/134437953-1564cd7d-8b9a-4943-a714-af4106163db4.png)
 
-![image](https://user-images.githubusercontent.com/80648280/134438029-467e78b4-1fe7-47cc-91d2-a3f560a7fcb7.png)
+![image](https://user-images.githubusercontent.com/80648280/134438029-467e78b4-1fe7-47cc-91d2-a3f560a7fcb7.png) 
+
+![image](https://user-images.githubusercontent.com/80648280/134438082-3ca6dc4d-b994-42b3-a93c-3649d3981241.png)
+
