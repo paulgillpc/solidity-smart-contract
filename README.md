@@ -13,3 +13,5 @@ The following images shows the contract and deployment:
 
 ![image](https://user-images.githubusercontent.com/80648280/134438082-3ca6dc4d-b994-42b3-a93c-3649d3981241.png)
 
+![image](https://user-images.githubusercontent.com/80648280/134438179-25f440ba-0b68-4fa3-842b-005d1fc94fe4.png)
+
